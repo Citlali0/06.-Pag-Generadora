@@ -15,5 +15,3 @@ function colocaFrase() {
     document.getElementById("frase").innerHTML = fraseAle();
 }
     colocaFrase();
-
-   
